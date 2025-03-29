@@ -4,7 +4,7 @@ import os
 about = {}
 here = os.path.abspath(os.path.dirname(__file__))
 
-with open(os.path.join(here, "HRegex", "__version__.py"), "r") as f:
+with open(os.path.join(here, "hregex", "__version__.py"), "r") as f:
     exec(f.read(), about)
 
 readme = open("README.md","r").read()
@@ -16,10 +16,10 @@ setup(
     author_email=about["__author_email__"],
     long_description=readme,
     long_description_content_type="text/markdown",
-    packages=["HRegex"],
+    packages=["hregex"],
     keywords=[
         "regex",
-        "human regez",
+        "human regex",
         "easy regex",
         "python regex",
         "farhan ali",

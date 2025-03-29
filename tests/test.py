@@ -1,6 +1,6 @@
 import unittest
 import re
-from HRegex import HRegex
+from hregex import HRegex
 
 class TestHRegex(unittest.TestCase):
 
