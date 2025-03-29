@@ -1,7 +1,7 @@
 # 🔍 HRegex – A Pythonic Human-Readable Regex Builder  
 
-[![PyPI Version](https://img.shields.io/pypi/v/hregex?color=blue&label=PyPI&logo=pypi)](https://pypi.org/project/hregex/)  
-[![Build](https://img.shields.io/github/actions/workflow/status/farhaanaliii/hregex/tests.yml?logo=github&label=Build)](https://github.com/farhaanaliii/hregex/actions)  
+[![PyPI Version](https://img.shields.io/pypi/v/hregex?color=blue&label=PyPI&logo=pypi)](https://pypi.org/project/hregex/)
+[![Build](https://img.shields.io/github/actions/workflow/status/farhaanaliii/hregex/.github/workflows/tests.yml?logo=github&label=Build)](https://github.com/farhaanaliii/hregex/actions)
 [![License](https://img.shields.io/github/license/farhaanaliii/hregex?color=brightgreen)](LICENSE)  
 [![Issues](https://img.shields.io/github/issues/farhaanaliii/hregex?color=yellow)](https://github.com/farhaanaliii/hregex/issues)  
 [![Stars](https://img.shields.io/github/stars/farhaanaliii/hregex?style=social)](https://github.com/farhaanaliii/hregex)  
